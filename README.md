@@ -2,7 +2,7 @@
 
 Submitted by: **Steven Zhou**
 
-About this web app: **Look for sport games in California**
+About this web app: **A platform to look for sport games in California**
 
 Time spent: **8** hours
 
