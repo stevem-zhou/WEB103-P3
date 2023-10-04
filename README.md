@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/WsgL0HL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/WsgL0HL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src="https://cdn.discordapp.com/attachments/721962382666104857/1159277909144522833/Screenshot_2023-10-04_165610.png?ex=653070af&is=651dfbaf&hm=8b47f9233c4aa89fab36feeddf9159c6449032c98b337ff81b19a5cb31b6ba25&" title="events table" width="" alt="Postgre SQL Events Table">
 <img src="https://cdn.discordapp.com/attachments/721962382666104857/1159278031228129310/Screenshot_2023-10-04_165652.png?ex=653070cc&is=651dfbcc&hm=c18ccf2e163e2016041f974673b5f257bcfd7c5ea162270e7bc10d8a1839e39d&" title="locations table" width="" alt="Postgre SQL Locations Table">
 
